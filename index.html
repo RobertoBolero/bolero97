@@ -3,39 +3,98 @@
 <head>
 <meta charset="UTF-8">
 <title>Sinais do Bolero 🔥</title>
+
 <style>
-body { font-family: Arial; background:#111; color:#fff; text-align:center }
-.card { background:#222; padding:20px; margin:20px; border-radius:10px }
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background:#0f172a;
+    color:white;
+    text-align:center;
+}
+
+h1{
+    margin-top:20px;
+}
+
+table{
+    margin:20px auto;
+    border-collapse:collapse;
+    width:90%;
+    max-width:700px;
+    background:#020617;
+    border-radius:10px;
+    overflow:hidden;
+}
+
+th{
+    background:#1e293b;
+    padding:12px;
+    font-size:18px;
+}
+
+td{
+    padding:12px;
+    border-bottom:1px solid #1e293b;
+    font-size:17px;
+}
+
+tr:hover{
+    background:#0f172a;
+}
+
+.alerta{
+    font-size:18px;
+    color:orange;
+}
 </style>
 </head>
+
 <body>
 
 <h1>🔥 Sinais do Bolero</h1>
-<p id="update"></p>
-<div id="sinais"></div>
+<p id="update">Carregando...</p>
+
+<table>
+<thead>
+<tr>
+<th>Jogo</th>
+<th>Porcentagem</th>
+<th>Horário</th>
+</tr>
+</thead>
+<tbody id="tabela">
+</tbody>
+</table>
 
 <script>
 fetch("sinais.json")
 .then(r => r.json())
 .then(d => {
-  document.getElementById("update").innerText =
-    "Última atualização: " + d.ultimo_update;
 
-  let html = "";
-  if (d.sinais.length === 0) {
-    html = "<p>⚠️ Aguardando oportunidade REI</p>";
-  } else {
-    d.sinais.forEach(s => {
-      html += `
-      <div class="card">
-        <h2>${s.jogo}</h2>
-        <p>👑 ${s.tipo}</p>
-        <p>⏰ ${s.horario}</p>
-        <p>🎯 Confiança: ${s.confianca}</p>
-      </div>`;
-    });
-  }
-  document.getElementById("sinais").innerHTML = html;
+document.getElementById("update").innerText =
+"Última atualização: " + d.ultimo_update;
+
+let tabela = document.getElementById("tabela");
+
+if(d.sinais.length === 0){
+    tabela.innerHTML =
+    `<tr>
+        <td colspan="3" class="alerta">
+        ⚠️ Nenhum jogo REI disponível no momento
+        </td>
+    </tr>`;
+    return;
+}
+
+d.sinais.forEach(s => {
+tabela.innerHTML +=
+`<tr>
+    <td>${s.nome}</td>
+    <td>${s.porcentagem}%</td>
+    <td>${s.hora}</td>
+</tr>`;
+});
+
 });
 </script>
 
