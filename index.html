@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Sinais do Bolero 🔥</title>
+<style>
+body { font-family: Arial; background:#111; color:#fff; text-align:center }
+.card { background:#222; padding:20px; margin:20px; border-radius:10px }
+</style>
+</head>
+<body>
+
+<h1>🔥 Sinais do Bolero</h1>
+<p id="update"></p>
+<div id="sinais"></div>
+
+<script>
+fetch("sinais.json")
+.then(r => r.json())
+.then(d => {
+  document.getElementById("update").innerText =
+    "Última atualização: " + d.ultimo_update;
+
+  let html = "";
+  if (d.sinais.length === 0) {
+    html = "<p>⚠️ Aguardando oportunidade REI</p>";
+  } else {
+    d.sinais.forEach(s => {
+      html += `
+      <div class="card">
+        <h2>${s.jogo}</h2>
+        <p>👑 ${s.tipo}</p>
+        <p>⏰ ${s.horario}</p>
+        <p>🎯 Confiança: ${s.confianca}</p>
+      </div>`;
+    });
+  }
+  document.getElementById("sinais").innerHTML = html;
+});
+</script>
+
+</body>
+</html>
