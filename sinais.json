@@ -1,15 +1,41 @@
 {
-  "ultimo_update": "2026-01-23 12:36:40",
+  "ultimo_update": "2026-01-23 19:30:26",
   "sinais": [
     {
-      "nome": "\u00d7",
-      "porcentagem": 100.0,
-      "capturado_em": "2026-01-23 12:36:39.739589"
+      "jogo": "Cocktail Nights",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "19:30:22",
+      "confianca": "98.0%"
     },
     {
-      "nome": "Compartilhe com seus amigos para aumentar suas chances de ganhar!\u00daltima ganhadora @RAYSSAMFERNANDES",
-      "porcentagem": 100.0,
-      "capturado_em": "2026-01-23 12:36:39.740589"
+      "jogo": "Ultimate Striker",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "19:30:22",
+      "confianca": "97.8%"
+    },
+    {
+      "jogo": "Honey Trap of Diao Chan",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "19:30:22",
+      "confianca": "98.0%"
+    },
+    {
+      "jogo": "Aztec Gems",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "19:30:22",
+      "confianca": "97.8%"
+    },
+    {
+      "jogo": "\u00d7",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "19:30:22",
+      "confianca": "100.0%"
+    },
+    {
+      "jogo": "Compartilhe com seus amigos para aumentar suas chances de ganhar!\u00daltima ganhadora @RAYSSAMFERNANDES",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "19:30:22",
+      "confianca": "100.0%"
     }
   ]
 }
