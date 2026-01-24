@@ -1,4 +1,35 @@
 {
-  "ultimo_update": "2026-01-24 09:05:42",
-  "sinais": []
+  "ultimo_update": "2026-01-24 09:05:48",
+  "sinais": [
+    {
+      "jogo": "Groundhog Harvest",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "09:05:48",
+      "confianca": "97.9%"
+    },
+    {
+      "jogo": "Book of Monsters",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "09:05:48",
+      "confianca": "97.9%"
+    },
+    {
+      "jogo": "Sultan's Tale",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "09:05:48",
+      "confianca": "97.9%"
+    },
+    {
+      "jogo": "\u00d7",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "09:05:48",
+      "confianca": "100.0%"
+    },
+    {
+      "jogo": "Compartilhe com seus amigos para aumentar suas chances de ganhar!\u00daltima ganhadora @RAYSSAMFERNANDES",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "09:05:48",
+      "confianca": "100.0%"
+    }
+  ]
 }
