@@ -1,34 +1,40 @@
 {
-  "ultimo_update": "2026-01-24 00:12:57",
+  "ultimo_update": "2026-01-24 00:13:59",
   "sinais": [
     {
-      "jogo": "Diner Delights",
+      "jogo": "Museum Wonders",
       "tipo": "REI \ud83d\udc51",
-      "horario": "00:12:56",
+      "horario": "00:13:59",
+      "confianca": "97.8%"
+    },
+    {
+      "jogo": "Diamonds of Egypt",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "00:13:59",
+      "confianca": "97.7%"
+    },
+    {
+      "jogo": "Hellvis Wild",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "00:13:59",
       "confianca": "97.9%"
     },
     {
-      "jogo": "Futebol Fever",
+      "jogo": "Book of Sherlock",
       "tipo": "REI \ud83d\udc51",
-      "horario": "00:12:56",
-      "confianca": "98.0%"
-    },
-    {
-      "jogo": "40 Hot Bar",
-      "tipo": "REI \ud83d\udc51",
-      "horario": "00:12:56",
-      "confianca": "97.9%"
+      "horario": "00:13:59",
+      "confianca": "97.7%"
     },
     {
       "jogo": "\u00d7",
       "tipo": "REI \ud83d\udc51",
-      "horario": "00:12:56",
+      "horario": "00:13:59",
       "confianca": "100.0%"
     },
     {
       "jogo": "Compartilhe com seus amigos para aumentar suas chances de ganhar!\u00daltima ganhadora @RAYSSAMFERNANDES",
       "tipo": "REI \ud83d\udc51",
-      "horario": "00:12:56",
+      "horario": "00:13:59",
       "confianca": "100.0%"
     }
   ]
