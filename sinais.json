@@ -1,4 +1,23 @@
 {
-  "ultimo_update": "2026-01-25 12:11:22",
-  "sinais": []
+  "ultimo_update": "2026-01-25 14:13:24",
+  "sinais": [
+    {
+      "jogo": "The Wild Hunt",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "14:13:18",
+      "confianca": "97.9%"
+    },
+    {
+      "jogo": "\u00d7",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "14:13:18",
+      "confianca": "100.0%"
+    },
+    {
+      "jogo": "Compartilhe com seus amigos para aumentar suas chances de ganhar!\u00daltima ganhadora @RAYSSAMFERNANDES",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "14:13:18",
+      "confianca": "100.0%"
+    }
+  ]
 }
