@@ -1,4 +1,23 @@
 {
-  "ultimo_update": "2026-01-26 15:08:43",
-  "sinais": []
+  "ultimo_update": "2026-01-27 15:26:24",
+  "sinais": [
+    {
+      "jogo": "Novel of Alexander",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "15:26:20",
+      "confianca": "97.7%"
+    },
+    {
+      "jogo": "\u00d7",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "15:26:20",
+      "confianca": "100.0%"
+    },
+    {
+      "jogo": "Compartilhe com seus amigos para aumentar suas chances de ganhar!\u00daltima ganhadora @RAYSSAMFERNANDES",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "15:26:20",
+      "confianca": "100.0%"
+    }
+  ]
 }
