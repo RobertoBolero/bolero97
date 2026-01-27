@@ -1,22 +1,28 @@
 {
-  "ultimo_update": "2026-01-27 19:44:10",
+  "ultimo_update": "2026-01-27 19:45:14",
   "sinais": [
+    {
+      "jogo": "Shaolin Soccer",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "19:45:13",
+      "confianca": "98.0%"
+    },
     {
       "jogo": "Rio Fantasia",
       "tipo": "REI \ud83d\udc51",
-      "horario": "19:44:10",
-      "confianca": "97.8%"
+      "horario": "19:45:13",
+      "confianca": "98.0%"
     },
     {
       "jogo": "\u00d7",
       "tipo": "REI \ud83d\udc51",
-      "horario": "19:44:10",
+      "horario": "19:45:13",
       "confianca": "100.0%"
     },
     {
       "jogo": "Compartilhe com seus amigos para aumentar suas chances de ganhar!\u00daltima ganhadora @RAYSSAMFERNANDES",
       "tipo": "REI \ud83d\udc51",
-      "horario": "19:44:10",
+      "horario": "19:45:13",
       "confianca": "100.0%"
     }
   ]
