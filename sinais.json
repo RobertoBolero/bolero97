@@ -1,28 +1,34 @@
 {
-  "ultimo_update": "2026-01-28 13:24:11",
+  "ultimo_update": "2026-01-28 13:25:14",
   "sinais": [
     {
-      "jogo": "Shaolin Soccer",
+      "jogo": "Fortune Ox",
       "tipo": "REI \ud83d\udc51",
-      "horario": "13:24:10",
+      "horario": "13:25:13",
+      "confianca": "97.8%"
+    },
+    {
+      "jogo": "Incan Wonders",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "13:25:13",
       "confianca": "97.7%"
     },
     {
-      "jogo": "Museum Mystery",
+      "jogo": "Rocket Blast",
       "tipo": "REI \ud83d\udc51",
-      "horario": "13:24:10",
-      "confianca": "97.8%"
+      "horario": "13:25:13",
+      "confianca": "98.0%"
     },
     {
       "jogo": "\u00d7",
       "tipo": "REI \ud83d\udc51",
-      "horario": "13:24:10",
+      "horario": "13:25:13",
       "confianca": "100.0%"
     },
     {
       "jogo": "Compartilhe com seus amigos para aumentar suas chances de ganhar!\u00daltima ganhadora @RAYSSAMFERNANDES",
       "tipo": "REI \ud83d\udc51",
-      "horario": "13:24:10",
+      "horario": "13:25:13",
       "confianca": "100.0%"
     }
   ]
