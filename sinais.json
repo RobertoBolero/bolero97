@@ -1,16 +1,28 @@
 {
-  "ultimo_update": "2026-01-28 17:05:15",
+  "ultimo_update": "2026-01-28 17:06:21",
   "sinais": [
+    {
+      "jogo": "Super Golf Drive",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "17:06:21",
+      "confianca": "97.9%"
+    },
+    {
+      "jogo": "Fat Panda",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "17:06:21",
+      "confianca": "97.8%"
+    },
     {
       "jogo": "\u00d7",
       "tipo": "REI \ud83d\udc51",
-      "horario": "17:05:15",
+      "horario": "17:06:21",
       "confianca": "100.0%"
     },
     {
       "jogo": "Compartilhe com seus amigos para aumentar suas chances de ganhar!\u00daltima ganhadora @RAYSSAMFERNANDES",
       "tipo": "REI \ud83d\udc51",
-      "horario": "17:05:15",
+      "horario": "17:06:21",
       "confianca": "100.0%"
     }
   ]
