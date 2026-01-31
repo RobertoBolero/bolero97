@@ -1,34 +1,40 @@
 {
-  "ultimo_update": "2026-01-31 17:21:40",
+  "ultimo_update": "2026-01-31 17:22:43",
   "sinais": [
     {
-      "jogo": "Mystic Potion",
+      "jogo": "Cocktail Nights",
       "tipo": "REI \ud83d\udc51",
-      "horario": "17:21:39",
+      "horario": "17:22:42",
+      "confianca": "97.8%"
+    },
+    {
+      "jogo": "Futebol Fever",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "17:22:42",
       "confianca": "97.7%"
     },
     {
-      "jogo": "Big Bass Amazon Xtreme",
+      "jogo": "Jewels of Prosperity",
       "tipo": "REI \ud83d\udc51",
-      "horario": "17:21:39",
-      "confianca": "97.9%"
+      "horario": "17:22:42",
+      "confianca": "98.0%"
     },
     {
-      "jogo": "Big Bass Bonanza 1000",
+      "jogo": "Fonzo's Feline",
       "tipo": "REI \ud83d\udc51",
-      "horario": "17:21:39",
-      "confianca": "97.8%"
+      "horario": "17:22:43",
+      "confianca": "97.7%"
     },
     {
       "jogo": "\u00d7",
       "tipo": "REI \ud83d\udc51",
-      "horario": "17:21:39",
+      "horario": "17:22:43",
       "confianca": "100.0%"
     },
     {
       "jogo": "Compartilhe com seus amigos para aumentar suas chances de ganhar!\u00daltima ganhadora @RAYSSAMFERNANDES",
       "tipo": "REI \ud83d\udc51",
-      "horario": "17:21:39",
+      "horario": "17:22:43",
       "confianca": "100.0%"
     }
   ]
