@@ -1,22 +1,34 @@
 {
-  "ultimo_update": "2026-01-31 13:39:33",
+  "ultimo_update": "2026-01-31 13:40:36",
   "sinais": [
     {
-      "jogo": "Dragon Legend",
+      "jogo": "Mafia Mayhem",
       "tipo": "REI \ud83d\udc51",
-      "horario": "13:39:32",
+      "horario": "13:40:35",
+      "confianca": "97.8%"
+    },
+    {
+      "jogo": "Geisha's Revenge",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "13:40:35",
+      "confianca": "97.8%"
+    },
+    {
+      "jogo": "Crown of Fire",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "13:40:35",
       "confianca": "97.7%"
     },
     {
       "jogo": "\u00d7",
       "tipo": "REI \ud83d\udc51",
-      "horario": "13:39:32",
+      "horario": "13:40:35",
       "confianca": "100.0%"
     },
     {
       "jogo": "Compartilhe com seus amigos para aumentar suas chances de ganhar!\u00daltima ganhadora @RAYSSAMFERNANDES",
       "tipo": "REI \ud83d\udc51",
-      "horario": "13:39:32",
+      "horario": "13:40:35",
       "confianca": "100.0%"
     }
   ]
