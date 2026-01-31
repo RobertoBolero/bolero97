@@ -1,28 +1,58 @@
 {
-  "ultimo_update": "2026-01-31 14:21:36",
+  "ultimo_update": "2026-01-31 14:22:39",
   "sinais": [
     {
-      "jogo": "Speed Winner",
+      "jogo": "Zombie Outbreak",
       "tipo": "REI \ud83d\udc51",
-      "horario": "14:21:36",
+      "horario": "14:22:39",
+      "confianca": "97.8%"
+    },
+    {
+      "jogo": "Rooster Rumble",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "14:22:39",
+      "confianca": "98.0%"
+    },
+    {
+      "jogo": "Legend of Perseus",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "14:22:39",
       "confianca": "97.7%"
     },
     {
-      "jogo": "Fortune Ox",
+      "jogo": "Prosperity Lion",
       "tipo": "REI \ud83d\udc51",
-      "horario": "14:21:36",
+      "horario": "14:22:39",
+      "confianca": "98.0%"
+    },
+    {
+      "jogo": "Mystic Potion",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "14:22:39",
       "confianca": "97.9%"
+    },
+    {
+      "jogo": "Zombie Carnival",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "14:22:39",
+      "confianca": "97.8%"
+    },
+    {
+      "jogo": "Mega Wheel",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "14:22:39",
+      "confianca": "97.7%"
     },
     {
       "jogo": "\u00d7",
       "tipo": "REI \ud83d\udc51",
-      "horario": "14:21:36",
+      "horario": "14:22:39",
       "confianca": "100.0%"
     },
     {
       "jogo": "Compartilhe com seus amigos para aumentar suas chances de ganhar!\u00daltima ganhadora @RAYSSAMFERNANDES",
       "tipo": "REI \ud83d\udc51",
-      "horario": "14:21:36",
+      "horario": "14:22:39",
       "confianca": "100.0%"
     }
   ]
