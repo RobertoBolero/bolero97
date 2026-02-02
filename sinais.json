@@ -1,28 +1,40 @@
 {
-  "ultimo_update": "2026-02-01 23:47:01",
+  "ultimo_update": "2026-02-01 23:48:06",
   "sinais": [
     {
-      "jogo": "Rooster Rumble",
+      "jogo": "Wild Coaster",
       "tipo": "REI \ud83d\udc51",
-      "horario": "23:47:00",
+      "horario": "23:48:06",
+      "confianca": "97.9%"
+    },
+    {
+      "jogo": "Hip Hop Panda",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "23:48:06",
       "confianca": "97.8%"
     },
     {
-      "jogo": "Pirate Golden Age",
+      "jogo": "Dreams of Macau",
       "tipo": "REI \ud83d\udc51",
-      "horario": "23:47:00",
+      "horario": "23:48:06",
       "confianca": "97.9%"
+    },
+    {
+      "jogo": "Rico Rabbit",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "23:48:06",
+      "confianca": "97.8%"
     },
     {
       "jogo": "\u00d7",
       "tipo": "REI \ud83d\udc51",
-      "horario": "23:47:00",
+      "horario": "23:48:06",
       "confianca": "100.0%"
     },
     {
       "jogo": "Compartilhe com seus amigos para aumentar suas chances de ganhar!\u00daltima ganhadora @RAYSSAMFERNANDES",
       "tipo": "REI \ud83d\udc51",
-      "horario": "23:47:00",
+      "horario": "23:48:06",
       "confianca": "100.0%"
     }
   ]
