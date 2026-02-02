@@ -1,4 +1,23 @@
 {
-  "ultimo_update": "2026-02-01 23:53:42",
-  "sinais": []
+  "ultimo_update": "2026-02-01 23:54:24",
+  "sinais": [
+    {
+      "jogo": "Yo Dragon",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "23:54:23",
+      "confianca": "98.0%"
+    },
+    {
+      "jogo": "\u00d7",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "23:54:23",
+      "confianca": "100.0%"
+    },
+    {
+      "jogo": "Compartilhe com seus amigos para aumentar suas chances de ganhar!\u00daltima ganhadora @RAYSSAMFERNANDES",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "23:54:23",
+      "confianca": "100.0%"
+    }
+  ]
 }
