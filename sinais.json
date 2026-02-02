@@ -1,4 +1,35 @@
 {
-  "ultimo_update": "2026-02-02 00:02:40",
-  "sinais": []
+  "ultimo_update": "2026-02-02 00:02:45",
+  "sinais": [
+    {
+      "jogo": "Cocktail Nights",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "00:02:45",
+      "confianca": "97.9%"
+    },
+    {
+      "jogo": "Lucky Neko",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "00:02:45",
+      "confianca": "97.8%"
+    },
+    {
+      "jogo": "Book of Monsters",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "00:02:45",
+      "confianca": "97.9%"
+    },
+    {
+      "jogo": "\u00d7",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "00:02:45",
+      "confianca": "100.0%"
+    },
+    {
+      "jogo": "Compartilhe com seus amigos para aumentar suas chances de ganhar!\u00daltima ganhadora @RAYSSAMFERNANDES",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "00:02:45",
+      "confianca": "100.0%"
+    }
+  ]
 }
