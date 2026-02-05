@@ -1,22 +1,40 @@
 {
-  "ultimo_update": "2026-02-04 23:45:53",
+  "ultimo_update": "2026-02-04 23:46:56",
   "sinais": [
     {
-      "jogo": "Ways of the Qilin",
+      "jogo": "Fruity Candy",
       "tipo": "REI \ud83d\udc51",
-      "horario": "23:45:52",
+      "horario": "23:46:55",
+      "confianca": "98.0%"
+    },
+    {
+      "jogo": "Sushi Oishi",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "23:46:55",
+      "confianca": "97.7%"
+    },
+    {
+      "jogo": "Rico Tiger",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "23:46:55",
+      "confianca": "97.9%"
+    },
+    {
+      "jogo": "40 Lucky Bell",
+      "tipo": "REI \ud83d\udc51",
+      "horario": "23:46:55",
       "confianca": "97.3%"
     },
     {
       "jogo": "\u00d7",
       "tipo": "REI \ud83d\udc51",
-      "horario": "23:45:52",
+      "horario": "23:46:55",
       "confianca": "100.0%"
     },
     {
       "jogo": "Compartilhe com seus amigos para aumentar suas chances de ganhar!\u00daltima ganhadora @RAYSSAMFERNANDES",
       "tipo": "REI \ud83d\udc51",
-      "horario": "23:45:52",
+      "horario": "23:46:55",
       "confianca": "100.0%"
     }
   ]
